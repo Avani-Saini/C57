@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(#b00000 0%, #0600b0 50%, #01000d 100%);
+    color: white;
+    text-align: center;
+}
+
+.bladebreakers {
+    width: 20px;
+    height: 6px;
+    background: white;
+    margin: 8px auto;
+}
+
+p {
+    font-family: fantasy, monospace;
+    font-size: 22px;
+
+}
+
+img {
+    border-radius: 120px;
+}
+
+h1 {
+    font-family: jokerman;
+
+}
+
+h2 {
+    font-family: Ravie;
+}
+
+
+
+
+
